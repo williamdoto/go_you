@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278107815726",
+    "project_id": "goyou-3ba1f",
+    "storage_bucket": "goyou-3ba1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278107815726:android:7840f62f73bba5949bc4bf",
+        "android_client_info": {
+          "package_name": "com.example.go_you"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XsS1GAMgKYVjX_Psyim0SJvt3qH2LeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
