@@ -12,7 +12,20 @@
           "package_name": "com.example.go_you"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "278107815726-p1613adt6ns93qev1kf99cim44q4aqh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.go_you",
+            "certificate_hash": "4063aed4ab64dd85ae0201d5df25b0c354beec58"
+          }
+        },
+        {
+          "client_id": "278107815726-d222pdf20pgeu97197o2mrqeotp2ou42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyD9XsS1GAMgKYVjX_Psyim0SJvt3qH2LeA"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278107815726-2eph09s5qnoprt3dm38r01o8q537r986.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278107815726-3nekb6k22jh4874ihs46g43nhjqf9n2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goYou"
+              }
+            }
+          ]
         }
       }
     }
